@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+		<title>Water Scarcity and Management
+
+		</title>
+
+			<link rel="stylesheet" type="text/css" href="style.css">
+	
+	</head>
+
+		<body>
+		
+					<div class="logo">
+		
+						<img src="logo.jpg" height="70" width="70"> 
+        
+					</div>	
+             
+				<header>
+		
+					<h2 class="header"><b>Water Scarcity and Management</b></h2>
+		
+				</header>
+
+				<nav>
+		
+	
+					<ul class="navbar">
+			
+						<li><a href="#about">About</a></li>
+			
+						<li><a href="#causes">Causes</a></li>
+			
+						<li><a href="#solutions">Solutions</a></li>
+			
+						<li><a href="#contact">Contact</a></li>
+		
+					</ul>
+	
+				</nav>
+
+			<main id="margin">
+		
+				<section id="about">
+			
+								<div class="video">
+		
+									<video autoplay loop muted height="800px" width="1000px"   title="Water Scarcity And Management" controls>
+
+										<source src="water.mp4" type="video/mp4">		
+					
+									</video>
+								</div>
+			
+					<h1>
+			
+						<u>About Water Scarcity and Management</u>
+			
+					</h1>
+			
+						<br>
+			
+					<p>
+				
+						<i>Water scarcity is the lack of sufficient available water resources to meet the demands of water usage within a region.
+
+						The increase in water demand is a contribution of various factors including growing population, increased agricultural needs, industrial use  and  for electricity production.
+						<br>
+						Large amounts of industrial pollutants dumped in the rivers are responsible for destroying and leading to water shortage of the whole planet.
+				
+						Pesticides and fertilizers used in agriculture also get mixed with water bodies and pollute them.<br>
+				 
+						Overuse of tube wells for irrigation and use of bore wells for  domestic use also leads to over exploitation of underground water , decreasing the level  water table  resulting in water scarcity.<br>
+				
+						The problem of water waste is severe in countries where people are using the traditional inefficient irrigation methods for  agricultural land.<br>
+
+						Government should invest to build more dams to fulfil the water demands and reduce the water shortage
+				
+						Water scarcity is a growing problem in many parts of the world.<br> It is caused by a combination of factors, including climate change, population growth, and poor water management practices.</i><br><br>
+			
+					</p>
+		
+				</section>
+		
+					<div class="video" title="Water Scarcity And Management">
+
+						<video autoplay loop muted height="800px" width="1000x" title="About Water Scarcity And Management " controls>
+					
+							<source src="about.mp4" type="video/mp4" >
+					
+						</video>
+
+					</div>
+		
+				<section id="causes">
+			
+					<h1>
+					
+						<u>Causes of Water Scarcity</u>
+			
+					</h1>
+			
+						<br>
+			
+					<p>
+			
+						<b>There are many causes of water scarcity, including:</b>
+			
+					</p>
+		
+						<ul>
+
+							<i>
+
+								<li>According to UN-Water 2.3 billion people live in water-stressed countries</li>
+				
+								<li>According to UNICEF, 1.42 billion people – including 450 million children – live in areas of high or extremely high water vulnerability</li>
+				
+								<li>785 million people lack access to basic water services</li>
+				
+								<li>The WHO reports that 884 million people lack access to safe drinking water</li>
+				
+								<li>Two-thirds of the world’s population experience severe water scarcity during at least one month of the year</li>
+				
+								<li>The Global Water Institute estimates that 700 million people could be displaced by intense water scarcity by 2030</li>
+				
+								<li>3.2 billion people live in agricultural areas with high water shortages or scarcity</li>
+				
+								<li>Approximately 73% of people affected by water shortages live in Asia</li>
+				
+								<li>The global water crisis is a women’s issue: In what UNICEF calls “a colossal waste of time,” women and girls spend an estimated 200 million hours hauling water every day</li>
+				
+								<li>Diarrhea kills 2,195 children every day—more than AIDS, malaria, and measles combined—and can be caused by lack of access to clean water and sanitation services</li>
+				
+								<li>Climate change,Population growth</li>
+				
+								<li>Poor water management practices and Overuse of water resources</li>
+			
+							</i>		
+			
+						</ul>
+			
+							<br>
+		
+				</section>
+
+						<div class="video">
+
+							<video autoplay muted loop height="800px" width="1000px" title="Causes of water Scarcity" controls>
+				
+								<source src="causes.mp4" >
+		
+							</video>
+
+						</div>
+
+				<section id="solutions">
+			
+							<h1>
+							
+								<u>Solutions to Water Scarcity</u>
+						
+							</h1>
+						
+								<br>
+			
+						<p>
+						
+							<b>There are many solutions to water scarcity, including:</b>
+				
+						</p>
+			
+								<ol>
+									
+									<i>
+							
+										<li>Developing water filtration systems.</li>
+				
+										<li>Promoting water stewardship.</li>
+									
+										<li>Protecting wetlands.</li>
+
+										<li>Improving irrigation efficiency.</li>
+									
+										<li>Increasing water storage in reservoirs.</li>
+				
+										<li>Conserving water through better management practices.</li>
+				
+										<li>Investing in new technologies to increase water availability.</li>
+				
+										<li>Improving infrastructure to reduce water losses during distribution.</li>
+				
+										<li>Reducing pollution to protect water quality.</li>
+			
+									</i>
+
+								</ol>
+			
+							<br>
+			
+				</section>
+		
+						<div class="video">
+			
+							<video autoplay loop muted height="500px" width="1000px" title="Solution To Water Scarcity" controls>
+			
+								<source src="solution.mp4" type="video/mp4" >
+			
+							</video>
+		
+						</div>
+
+       			 <section id="contact">
+            
+					<h1> For joining our Community to help needy people:</h1> 
+					<h1>Contact Us</h1>
+					
+					<br>
+
+            		<form action="#" method="post">
+             
+							<label for="name">Name:
+
+							</label>
+				
+						<br>
+               
+								<input type="text" id="name" name="name" placeholder="full name">
+				
+						<br>
+
+                			<label for="email">Email:
+								
+							</label>
+				
+						<br>
+                
+								<input type="email" id="email" name="email" placeholder="e-mail">
+				
+						<br>
+
+                			<label for="message">Message:
+
+							</label>
+				
+						<br>
+                
+								<textarea id="message" name="message" placeholder="message">
+
+								</textarea>
+				
+						<br>
+
+              					 <input type="submit" value="Submit">
+           
+					</form>
+
+       			 </section>
+
+   		 	</main>
+
+			<footer>&copy; 2023 Water Scarcity and Management. All rights reserved.</footer>
+
+		</body>
+
+</html>
